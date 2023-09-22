@@ -5,14 +5,12 @@ This project is about Sorting algorithms & Big O in C
 ## General
 
 Sorting Algorithm
--------------------
 
-these are methods of arranging ellements of a list in a specific order
+- these are methods of arranging ellements of a list in a specific order
 
 Big O || Big O notation
--------------------------
 
-This is the matric for determining the efficiency of an algorithm where it allows programmers to
+- This is the matric for determining the efficiency of an algorithm where it allows programmers to
 estimate how long their code will run on different set of inputs as it increases or grows.
 
 More
