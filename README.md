@@ -21,5 +21,5 @@ More
 
 ## The AUTHORS
 
-* [Elvis Otieno](https://github.com/elvismalsa)
-* [Nigel Zenda](https://github.com/Heavenboi)
+1. [Elvis Otieno](https://github.com/elvismalsa)
+2. [Nigel Zenda](https://github.com/Heavenboi)
