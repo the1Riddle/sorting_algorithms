@@ -1,6 +1,6 @@
-# Program Test
+# 0x1B. C.
 
-On this branch is where I'll be doing all the project corrections.
+This project is about Sorting algorithms & Big O in C
 
 ## General
 
