@@ -39,13 +39,12 @@ void insertion_sort_list(listint_t **list)
 {
 	listint_t *node;
 
-	if (!list || (*list)->next == NULL)
+	if (list == NULL || *list == NULL || (*list)->next == NULL)
 		return;
-
 	node = (*list)->next;
 	while (node)
 	{
-		while ((node->next) && (node->prev->n > node->n))
+		while (node && (node->prev) && (node->prev->n > node->n))
 		{
 			node = swap_node(node, list);
 			print_list(*list);
