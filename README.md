@@ -1,23 +1,6 @@
 # Program Test
 
-On this branch is where I'll be doing all the project corrections.
-
-## General
-
-Sorting Algorithm
-
-- these are methods of arranging ellements of a list in a specific order
-
-Big O || Big O notation
-
-- This is the matric for determining the efficiency of an algorithm where it allows programmers to
-estimate how long their code will run on different set of inputs as it increases or grows.
-
-More
--------------------
-
-- In this project Betty style is used for the codes
-- The prototypes of all the functions are included in a header file called sort.h
+On this branch is where We'll be doing all the project corrections.
 
 ## The AUTHORS
 
