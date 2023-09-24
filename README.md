@@ -1,8 +1,11 @@
-# Program Test
+# Branch El
 
-On this branch is where We'll be doing all the project corrections.
+This is the branch i will be handling my part of the project. <br>
+they include:
+
+- Insertion sort 
+- Quick sort
 
 ## The AUTHORS
 
 1. [Elvis Otieno](https://github.com/elvismalsa)
-2. [Nigel Zenda](https://github.com/Heavenboi)
