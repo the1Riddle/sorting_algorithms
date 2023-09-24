@@ -1,25 +1,11 @@
-# 0x1B. C.
+# Branch El
 
-This project is about Sorting algorithms & Big O in C
+This is the branch i will be handling my part of the project. <br>
+they include:
 
-## General
-
-Sorting Algorithm
-
-- these are methods of arranging ellements of a list in a specific order
-
-Big O || Big O notation
-
-- This is the matric for determining the efficiency of an algorithm where it allows programmers to
-estimate how long their code will run on different set of inputs as it increases or grows.
-
-More
--------------------
-
-- In this project Betty style is used for the codes
-- The prototypes of all the functions are included in a header file called sort.h
+- Insertion sort 
+- Quick sort
 
 ## The AUTHORS
 
 1. [Elvis Otieno](https://github.com/elvismalsa)
-2. [Nigel Zenda](https://github.com/Heavenboi)
