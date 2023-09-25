@@ -28,7 +28,7 @@ int lomuto_pertition(int *array, int low, int hi, size_t size)
 	int pivot = array[hi];
 	int x, y = (low - 1);
 
-	for (x = low; x < hi; x++)
+	for (x = low; x <= hi; x++)
 	{
 		if (array[x] <= pivot)
 		{
@@ -40,8 +40,7 @@ int lomuto_pertition(int *array, int low, int hi, size_t size)
 			}
 		}
 	}
-	swap_elements(&array[y + 1], &array[hi]);
-	return (y + 1);
+	return (y);
 }
 
 /**
