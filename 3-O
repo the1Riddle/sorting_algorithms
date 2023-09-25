@@ -1,4 +1,4 @@
 O(nlog(n))
-O(n(log(n))
+O(nlog(n))
 O(n^2)
 
