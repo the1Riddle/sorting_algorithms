@@ -21,9 +21,9 @@ void swap_elements(int *a, int *b)
  * @hi: the higher index to be partitioned
  * @size: the size of the array
  *
- * return: 
+ * Return: return value y
  */
-int lomuto_pertition(int *array, int low, int hi, size_t size)
+int lomuto_partition(int *array, int low, int hi, size_t size)
 {
 	int pivot = array[hi];
 	int x, y = (low - 1);
@@ -58,7 +58,7 @@ void sort_lomuto(int *array, int low, int hi, size_t size)
 
 	if (low < hi)
 	{
-		x = lomuto_pertition(array, low, hi, size);
+		x = lomuto_partition(array, low, hi, size);
 		sort_lomuto(array, low, x - 1, size);
 		sort_lomuto(array, x + 1, hi, size);
 	}
